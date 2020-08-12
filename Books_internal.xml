@@ -15,14 +15,14 @@
 
 <books> 
 	<book>
-		<title> Object Oriented Programming in C++ </title>
-		<author> ROBERT LAFORE </author>
+		<title> Java Server Page </title>
+		<author> HANS BERGSTEN </author>
 		<genre> Education </genre>
-		<copyright> 2002 </copyright>
-		<edition> fourth </edition>
-		<isbn> 9780672323089 </isbn>
-		<publisher> Pearson Education </publisher>
-		<price> 600 </price>
+		<copyright> 2001</copyright>
+		<edition> First </edition>
+		<isbn> 9780596002312 </isbn>
+		<publisher> O'relilly </publisher>
+		<price> 2400 </price>
  	</book>
  	<book>
 		<title> The Catcher in the Rye </title>
@@ -35,24 +35,24 @@
 		<price> 540 </price>
 	</book>
 	<book>
-		<title> The Silent Patient </title>
-		<author> ALEX MICHAELIDES </author>
-		<genre> Mystery </genre>
-		<copyright> 2019 </copyright>
-		<edition> first </edition>
-		<isbn> 9781409181637 </isbn>
-		<publisher> Macmillan Publishers </publisher>
-		<price> 299 </price>
+		<title> The Alchemist </title>
+		<author> PAULO COEHLO </author>
+		<genre> Sci-fi </genre>
+		<copyright> 2020 </copyright>
+		<edition> First </edition>
+		<isbn> 978-04202010789 </isbn>
+		<publisher> HarperCollins </publisher>
+		<price> 250 </price>
  	</book>
  	<book>
-		<title> We Were Liars </title>
-		<author> E. LOCKHART </author>
-		<genre> Young adult fiction </genre>
-		<copyright> 2014 </copyright>
-		<edition> first </edition>
-		<isbn> 9780385741262 </isbn>
-		<publisher> Dell Publishing </publisher>
-		<price> 196 </price>
+		<title> Five Go Adventuring Again</title>
+		<author> ENID BLYTON </author>
+		<genre> Mystery </genre>
+		<copyright> 1960 </copyright>
+		<edition> First </edition>
+		<isbn> 978-0446310789 </isbn>
+		<publisher>Hodder and Stoughton</publisher>
+		<price> 100 </price>
  	</book>
  	<book>
 		<title> Gone Girl </title>
